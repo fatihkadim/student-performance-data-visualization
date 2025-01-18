@@ -1,7 +1,4 @@
 # student-performance-data-visualization
-
-Projenizde kullandığınız veri setine dair açıklamalar ve ek bilgilerle yazıyı genişletebiliriz. İşte, verdiğiniz "Students Performance in Exams" veri setinin ilk 5 satırına ve sütun açıklamalarına göre genişletilmiş bir metin:
-
 Öğrencilerin Sınav Performansları Görselleştirmeleri
 Bu proje, Kaggle'dan alınan "Students Performance in Exams" veri seti kullanılarak, öğrencilerin sınav performansları arasındaki ilişkileri görselleştirmeyi amaçlayan bir analiz çalışmasıdır. Verileri daha derinlemesine anlamak ve bu veriler arasındaki ilişkiyi görsel olarak keşfetmek benim için oldukça keyifli bir deneyimdi. Amacım, verilerdeki temel desenleri, ilişkileri ve istatistiksel eğilimleri görselleştirerek, verileri anlamanın gücünü keşfetmekti.
 
